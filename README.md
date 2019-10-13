@@ -1,2 +1,2 @@
 # Bagels
- You should to guess correctly to win
+ You should  guess correctly to win
